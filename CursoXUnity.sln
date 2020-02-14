@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoXUnity.DomainTest", "test\CursoXUnity.DomainTest\CursoXUnity.DomainTest.csproj", "{46050F6F-A14E-4D19-B2D6-1E32B25D20B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoXUnity.Domain", "src\CursoXUnity.Domain\CursoXUnity.Domain.csproj", "{5AACD97D-3BFA-48E9-A0D9-834C566A7075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46050F6F-A14E-4D19-B2D6-1E32B25D20B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46050F6F-A14E-4D19-B2D6-1E32B25D20B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46050F6F-A14E-4D19-B2D6-1E32B25D20B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46050F6F-A14E-4D19-B2D6-1E32B25D20B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AACD97D-3BFA-48E9-A0D9-834C566A7075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AACD97D-3BFA-48E9-A0D9-834C566A7075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AACD97D-3BFA-48E9-A0D9-834C566A7075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AACD97D-3BFA-48E9-A0D9-834C566A7075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {714AB629-BAB8-487D-93AC-2445156A43B5}
+	EndGlobalSection
+EndGlobal

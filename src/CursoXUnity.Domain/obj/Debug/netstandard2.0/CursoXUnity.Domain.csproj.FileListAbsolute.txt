@@ -1,0 +1,8 @@
+C:\repos\CursoXUnity\src\CursoXUnity.Domain\bin\Debug\netstandard2.0\CursoXUnity.Domain.deps.json
+C:\repos\CursoXUnity\src\CursoXUnity.Domain\bin\Debug\netstandard2.0\CursoXUnity.Domain.dll
+C:\repos\CursoXUnity\src\CursoXUnity.Domain\bin\Debug\netstandard2.0\CursoXUnity.Domain.pdb
+C:\repos\CursoXUnity\src\CursoXUnity.Domain\obj\Debug\netstandard2.0\CursoXUnity.Domain.csprojAssemblyReference.cache
+C:\repos\CursoXUnity\src\CursoXUnity.Domain\obj\Debug\netstandard2.0\CursoXUnity.Domain.AssemblyInfoInputs.cache
+C:\repos\CursoXUnity\src\CursoXUnity.Domain\obj\Debug\netstandard2.0\CursoXUnity.Domain.AssemblyInfo.cs
+C:\repos\CursoXUnity\src\CursoXUnity.Domain\obj\Debug\netstandard2.0\CursoXUnity.Domain.dll
+C:\repos\CursoXUnity\src\CursoXUnity.Domain\obj\Debug\netstandard2.0\CursoXUnity.Domain.pdb
